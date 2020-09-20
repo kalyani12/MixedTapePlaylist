@@ -1,0 +1,43 @@
+[
+  {
+    "operationType": "createPlaylist",
+    "operationInput": {
+      "playlist": {
+        "user_id": "2",
+        "song_ids": [
+          "8",
+          "32"
+        ]
+      }
+    }
+  },
+  {
+    "operationType": "updatePlaylist",
+    "operationInput": {
+      "playlist_id": "2",
+      "song_id": "1"
+    }
+  },
+  {
+    "operationType": "deletePlaylist",
+    "operationInput": {
+      "playlist_id": "1"
+    }
+  },
+  {
+    "operationType": "createPlaylist",
+    "operationInput": {
+      "playlist": {
+        "user_id": "2",
+        "song_ids": [
+          "4",
+          "5"
+        ]
+      }
+    }
+  }
+]
+
+
+
+
