@@ -9,7 +9,7 @@ It applies the changes on the exiting data to produce the updated playlist outpu
 * Maven
 
 ### Clone repository:
-
+* `git clone https://github.com/kalyani12/MixedTapePlaylist.git`
 
 ### To build the application:
 In the project directory run:
